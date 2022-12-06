@@ -1,0 +1,43 @@
+; Tips file for OLB/LB 3.60
+; Do not Edit, please
+
+You can hide these tips by clicking Working Space / Show Tips or pressing CTRL+T.
+Press the ESC key at any time to hide or show the control panel.
+To toggle the control panel horizontally or vertically, press CTRL+B or double-click the panel.
+Double-click an image in a series to display it in 1x1 layout.
+When drawing ELLIPSE annotations, start your drawing by pressing the CTRL key to draw CIRCLES.
+If you have 1, 2 or 3 series viewers open, press F3 to change the series organization.
+If you have a DUAL MONITOR workstation, press CTRL+F3 to toggle between MONO and DUAL screen configurations.
+In SELECTION mode, press the SHIFT key and use the LEFT MOUSE BUTTON for image PANNING.
+In SELECTION mode, press the CTRL key and use the LEFT MOUSE BUTTON for image ZOOMING.
+In SELECTION mode, press the ALT key and use the LEFT MOUSE BUTTON for image WINDOWING.
+In WINDOWING mode, press CTRL and select a region of interest with the LEFT MOUSE BUTTON to apply automatic windowing.
+Don't forget the RIGHT MOUSE BUTTON. It's very useful to scroll through images!
+Press SHIFT while using the RIGHT MOUSE BUTTON, to scroll faster through images in the series.
+The MOUSE WHEEL enables you to scroll through images in a series.
+Press SHIFT while using the MOUSE WHEEL to scroll faster through images in the series.
+A click using the LEFT MOUSE BUTTON in a Series title bar lets you jump quickly to a given location in the series.
+Keyboard ARROW keys (left and right): also useful to go from an image to another in a series.
+The MIDDLE MOUSE BUTTON also allows you to ZOOM an image INTERACTIVELY in 1x1 layout.
+ADDING an image to the FILM COMPOSER is easy. Just DRAG-and-DROP with the left mouse button in selection mode.
+You can also reorganize images in the FILM COMPOSER using DRAG-and-DROP.
+The number displayed on the FILM COMPOSER is the number of films it contains.
+Try to LEFT CLICK on the STUDY LIST HEADER to define the detail information you want to be displayed.
+Reorganize the STUDY LIST display by moving the header columns with the LEFT MOUSE button.
+Remove or abort BACKGROUND PROCESSES by clicking them using the RIGHT MOUSE button.
+Also try the MOUSE WHEEL in MAGNIFY mode. It changes the zoom factor...
+The way the MAGNIFYING GLASS works doesn't suit you? You can change it by pressing CTRL+M...
+To access the Settings dialog box, simply press F9.
+If you want to display DICOM information on the selected image, press F2.
+*What's up Doc?
+*Click me to get my tips.
+*Quite sure my tips will be of a great help.
+*I know. I don't smile much. My designers were a bit lazy...
+*U remember me? My name used to be Open LiteBox.
+*Have you had a look at the Help file? It can be useful too. Simply press F1.
+*The Help file provides you with great tips too...
+*Please, stop pointing the mouse over me...
+*I'm getting a headache...
+*I'm seasick now...
+*I agree. Not so common, a seasick Breton rabbit!
+
