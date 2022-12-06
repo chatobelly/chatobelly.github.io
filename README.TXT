@@ -7,11 +7,11 @@ INSTRUCTIONS FOR MACINTOSH USERS
 
 
 To read this disc on a Macintosh,
-double-click the "Index.htm" file. Your operating
+double-click the "Index.HTM" file. Your operating
 system should launch the default Web browser.
 If nothing happens, try and launch your favorite Web browser,
 and then click "Open File" in the "File" menu 
-and select the "Index.htm" file at the root of the disc.
+and select the "Index.HTM" file at the root of the disc.
 
 
 INSTRUCTIONS FOR WINDOWS USERS
